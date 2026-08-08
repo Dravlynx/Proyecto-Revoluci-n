@@ -1,0 +1,133 @@
+[2026-08-08T15:18:20.922Z][INFO] Command-line: 'C:\\Program Files\\Unity\\Hub\\Editor\\6000.5.7f1\\Editor\\Data\\Resources\\PackageManager\\Server\\UnityPackageManager.exe' server -s 10848 --ipc-path Unity-Upm-10848 -l 2 --log-file C:\\Users\\miche\\Revolucion/Logs/upm.log
+[2026-08-08T15:18:21.000Z][INFO] IPC server started (IPC path=Unity-Upm-10848).
+[2026-08-08T15:18:21.000Z][INFO] Hint: To connect to this UPM instance, launch Unity with the command-line parameter -upmIpcPath Upm-10848.
+[2026-08-08T15:18:52.772Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-08-08T15:18:53.048Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-08-08T15:18:53.062Z][INFO] config:project:get-registries <-- Request received
+params: {}
+[2026-08-08T15:18:53.191Z][INFO] project:update-dependencies <-- Request received
+params: {}
+[2026-08-08T15:18:53.216Z][INFO] project:update-dependencies --> 200 (25 ms)
+[2026-08-08T15:18:53.258Z][INFO] project:resolve-packages <-- Request received
+params: {}
+[2026-08-08T15:18:53.817Z][INFO] config:project:get-registries --> 200 (755 ms)
+[2026-08-08T15:18:54.804Z][INFO] project:list-packages --> 200 (1756 ms)
+[2026-08-08T15:18:54.806Z][INFO] project:list-packages --> 200 (2034 ms)
+[2026-08-08T15:19:24.767Z][WARN] Requested version [17.6.0] for package [com.unity.render-pipelines.universal] overridden by built-in package version [17.5.0].
+[2026-08-08T15:19:24.767Z][WARN] Requested version [4.9.3] for package [com.unity.searcher] overridden by minimum version [4.9.4].
+[2026-08-08T15:19:24.767Z][WARN] Requested version [1.8.14] for package [com.unity.burst] overridden by minimum version [1.8.30].
+[2026-08-08T15:19:24.767Z][WARN] Requested version [3.2.0] for package [com.unity.test-framework.performance] overridden by minimum version [3.5.0].
+[2026-08-08T15:19:24.769Z][INFO] project:resolve-packages --> 200 (31511 ms)
+[2026-08-08T15:21:15.059Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-08-08T15:21:15.087Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-08-08T15:21:15.500Z][INFO] project:list-packages --> 200 (413 ms)
+[2026-08-08T15:21:15.501Z][INFO] project:list-packages --> 200 (442 ms)
+[2026-08-08T15:21:16.208Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-08-08T15:21:16.436Z][INFO] project:list-packages --> 200 (228 ms)
+[2026-08-08T15:21:16.607Z][INFO] config:project:get-registries <-- Request received
+params: {}
+[2026-08-08T15:21:16.611Z][INFO] config:project:get-registries --> 200 (4 ms)
+[2026-08-08T15:22:40.064Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-08-08T15:22:40.514Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-08-08T15:22:41.285Z][INFO] project:list-packages --> 200 (1221 ms)
+[2026-08-08T15:22:41.288Z][INFO] project:list-packages --> 200 (774 ms)
+[2026-08-08T15:22:55.299Z][INFO] packages:get-all-packageinfo <-- Request received
+params: {}
+[2026-08-08T15:22:55.318Z][INFO] packages:get-all-packageinfo <-- Request received
+params: {}
+[2026-08-08T15:22:57.614Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-08-08T15:23:05.813Z][INFO] project:list-packages --> 200 (8199 ms)
+[2026-08-08T15:23:14.703Z][INFO] packages:get-all-packageinfo --> 200 (19385 ms)
+[2026-08-08T15:23:15.037Z][INFO] packages:get-all-packageinfo --> 200 (19739 ms)
+[2026-08-08T15:23:15.197Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.learn.iet-framework@5.0.4"
+}
+[2026-08-08T15:23:15.243Z][INFO] packages:get-packageinfo --> 200 (46 ms)
+[2026-08-08T15:23:15.297Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.addressables@2.9.1"
+}
+[2026-08-08T15:23:15.320Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.ads.ios-support@1.0.1"
+}
+[2026-08-08T15:23:15.344Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.learn.iet-framework.authoring@1.5.4"
+}
+[2026-08-08T15:23:15.346Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.polyspatial.extensions@3.1.5"
+}
+[2026-08-08T15:23:15.384Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.polyspatial.visionos@3.1.5"
+}
+[2026-08-08T15:23:15.385Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.scriptablebuildpipeline@2.6.1"
+}
+[2026-08-08T15:23:15.385Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.xr.arcore@6.5.0"
+}
+[2026-08-08T15:23:15.443Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.xr.arfoundation@6.5.0"
+}
+[2026-08-08T15:23:15.444Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.xr.arkit@6.5.0"
+}
+[2026-08-08T15:23:15.445Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.xr.management@4.5.4"
+}
+[2026-08-08T15:23:15.446Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.xr.visionos@3.1.5"
+}
+[2026-08-08T15:23:15.531Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.services.friends@1.1.1"
+}
+[2026-08-08T15:23:15.532Z][INFO] packages:get-packageinfo <-- Request received
+params: {
+  "packageId": "com.unity.services.moderation@1.0.2"
+}
+[2026-08-08T15:23:15.825Z][INFO] packages:get-packageinfo --> 200 (293 ms)
+[2026-08-08T15:23:15.833Z][INFO] packages:get-packageinfo --> 200 (302 ms)
+[2026-08-08T15:23:15.848Z][INFO] packages:get-packageinfo --> 200 (528 ms)
+[2026-08-08T15:23:15.850Z][INFO] packages:get-packageinfo --> 200 (504 ms)
+[2026-08-08T15:23:15.853Z][INFO] packages:get-packageinfo --> 200 (469 ms)
+[2026-08-08T15:23:15.866Z][INFO] packages:get-packageinfo --> 200 (570 ms)
+[2026-08-08T15:23:15.870Z][INFO] packages:get-packageinfo --> 200 (526 ms)
+[2026-08-08T15:23:15.878Z][INFO] packages:get-packageinfo --> 200 (493 ms)
+[2026-08-08T15:23:15.884Z][INFO] packages:get-packageinfo --> 200 (439 ms)
+[2026-08-08T15:23:15.888Z][INFO] packages:get-packageinfo --> 200 (442 ms)
+[2026-08-08T15:23:15.916Z][INFO] packages:get-packageinfo --> 200 (531 ms)
+[2026-08-08T15:23:15.925Z][INFO] packages:get-packageinfo --> 200 (481 ms)
+[2026-08-08T15:23:15.933Z][INFO] packages:get-packageinfo --> 200 (490 ms)
+[2026-08-08T15:24:03.570Z][INFO] project:update-dependencies <-- Request received
+params: {}
+[2026-08-08T15:24:03.588Z][INFO] project:update-dependencies --> 200 (19 ms)
+[2026-08-08T15:24:03.613Z][INFO] project:resolve-packages <-- Request received
+params: {}
+[2026-08-08T15:24:04.094Z][INFO] project:resolve-packages --> 200 (481 ms)
+[2026-08-08T15:24:04.616Z][WARN] Error while attempting to delete 'C:\Users\miche\Revolucion\Library\PackageCache\com.unity.burst@2f3d916873ea': Error: EPERM: operation not permitted, unlink 'C:\Users\miche\Revolucion\Library\PackageCache\.del--9256-l53X6v6r6tGZ\.Runtime\MonoDebuggerHandling.dll'
+[2026-08-08T15:24:18.876Z][INFO] config:project:get-registries <-- Request received
+params: {}
+[2026-08-08T15:24:18.887Z][INFO] project:list-packages <-- Request received
+params: {}
+[2026-08-08T15:24:18.932Z][INFO] config:project:get-registries --> 200 (55 ms)
+[2026-08-08T15:24:19.008Z][INFO] project:list-packages --> 200 (121 ms)
+[2026-08-08T15:24:27.295Z][INFO] Shutting down UnityPackageManager.exe: parent process [10848] is no longer running.
